@@ -5,4 +5,4 @@
 <h1 align="center"> Mon Portfolio
  </h1> 
 <h3 align="center">
-Bienvenue sur le portfolio de [Votre Nom]. Ce projet est une vitrine de mes compétences et de mes projets. Vous y trouverez des informations sur mes expériences professionnelles, mes contributions open source, mes projets personnels, et bien plus encore.</h3>
+Bienvenue sur le portfolio de Tommy Costamagno. Ce projet est une vitrine de mes compétences et de mes projets. Vous y trouverez des informations sur mes expériences professionnelles, mes contributions open source, mes projets personnels, et bien plus encore.</h3>
