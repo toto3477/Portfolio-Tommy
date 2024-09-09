@@ -33,6 +33,14 @@ export default function GithubRepoCard({ repo, theme }) {
           <p className="repo-description" style={{ color: theme.text }}>
             {repo.description}
           </p>
+          <h2 style={{ color: theme.text }}>Challenge :</h2>
+          <p className="repo-description" style={{ color: theme.text }}>
+            {repo.challenge}
+          </p>
+          <h2 style={{ color: theme.text }}>Compétences acquises :</h2>
+          <p className="repo-description" style={{ color: theme.text }}>
+            {repo.competences}
+          </p>
           <div className="repo-details">
             <p
               className="repo-creation-date subTitle"

@@ -26,8 +26,8 @@ const greeting = {
     "Développeur débutant, passionné de codage.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "https://github.com/toto3477",
+  githubProfile: "https://github.com/toto3477",
 };
 
 const socialMediaLinks = [

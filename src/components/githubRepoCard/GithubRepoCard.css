@@ -5,6 +5,9 @@
   cursor: pointer;
   flex: 1 1 25%;
 }
+.repo-card-div h2 {
+  font-size: 1.3rem;
+}
 .repo-card-div:hover {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
 }

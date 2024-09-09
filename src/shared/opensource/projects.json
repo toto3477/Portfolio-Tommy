@@ -7,6 +7,8 @@
       "url": "https://github.com/toto3477/projet-2-booki-",
       "description": "Création de la page d'accueil d'une plateforme de réservation de vacances avec HTML & CSS.",
       "isFork": false,
+      "challenge": "Adapter les maquettes Figma pour qu'elles s'affichent correctement sur mobile, tablette et desktop a pu poser des défis en termes de mise en page et d'alignement. Pour surmonter cela, une approche mobile-first avec les media queries m'a permis de gérer chaque taille d'écran efficacement.",
+      "competences": "Structurer efficacement le HTML et styliser les éléments en CSS tout en respectant la maquette. Créer une interface adaptable à différents appareils en utilisant les media queries et le flexbox/grid. Apprendre à interpréter les maquettes Figma et à les traduire en code réel tout en respectant les détails.",
       "languages": [
         {
           "name": "HTML",
@@ -25,6 +27,8 @@
       "url": "https://github.com/toto3477/projet3",
       "description": "Création d'une page web dynamique avec JavaScript, pour finaliser le nouveau site internet d’une architecte.",
       "isFork": false,
+      "challenge": " L'envoi et la réception de données via une API ont générer des erreurs (comme les échecs de requêtes ou la mauvaise gestion des réponses). J'ai donc utiisé async/await pour une gestion fluide des promesses et j'ai implenté une gestion robuste des erreurs avec try/catch.",
+      "competences": "Manipuler le DOM, gérer les événements, et développer des fonctionnalités interactives, tout en optimisant les performances. Communiquer efficacement avec un serveur, envoyer et recevoir des données JSON, ce qui est crucial pour des applications dynamiques.",
       "languages": [
         {
           "name": "JavaScript",
@@ -39,6 +43,8 @@
       "url": "https://github.com/toto3477/projet-4",
       "description": "Débuggage de certaines anomalies dans le code et optimisation d'un site de photographe pour qu'il puisse apparaître en tête des résultats de recherche Google grâce aux bonnes pratiques de SEO et d’accessibilité.",
       "isFork": false,
+      "challenge": "Le chargement lent du site dû à des images non optimisées et à un code JavaScript/CSS trop lourd. J'ai utilisé des techniques de compression d'images, comme le format WebP, et minifier les fichiers CSS/JS a considérablement améliorer la vitesse de chargement.",
+      "competences": " : Utilisation d'outils comme Lighthouse pour évaluer et améliorer la vitesse de chargement, avec des techniques telles que la compression des fichiers, le lazy-loading des images, et la minification du code. Identification des problèmes d'accessibilité avec Wave. Apprentissage des techniques pour améliorer le référencement naturel (SEO). Production de rapports détaillés avant et après optimisation.",
       "languages": [
         {
           "name": "SEO",
@@ -57,6 +63,8 @@
       "url": "https://github.com/toto3477/Projet5",
       "description": "Création d'une application web de location immobilière avec React.",
       "isFork": false,
+      "challenge": "Travailler avec des données JSON et les rendre dynamiques à travers les composants m'a posé des problèmes de performance et de synchronisation. L'utilisation d'outils comme useEffect et useState m'a permis de gérer efficacement les données et leur affichage.",
+      "competences": " Maîtrise des bases de React pour la création de composants réactifs et dynamiques, ainsi que la gestion de la navigation avec React Router. Travail avec des fichiers JSON pour simuler une base de données. Amélioration de l'interface utilisateur avec SASS et l'ajout d'animations CSS pour une meilleure interactivité.",
       "languages": [
         {
           "name": "React",
@@ -71,6 +79,8 @@
       "url": "https://github.com/toto3477/Projet6_Backend",
       "description": "Développement du back-end d'un site de notation de livres avec Node.js, Express et MongoDB.",
       "isFork": false,
+      "challenge": "Gérer les opérations CRUD avec sécurité et efficacité ont été complexe, surtout pour les mises à jour partielles et les suppressions sécurisées. La validation des données avec Mongoose et l’utilisation de middlewares m'a permis de garantir l'intégrité des données.",
+      "competences": " Maîtrise de la création d’un serveur, gestion des requêtes HTTP et développement d’une API RESTful. Utilisation de MongoDB pour le stockage des données, avec Mongoose pour structurer les modèles et interagir avec la base de données. Implémentation de l'authentification sécurisée avec JWT, cryptage des mots de passe et validation des entrées utilisateur.",
       "languages": [
         {
           "name": "Node.js",
@@ -93,9 +103,12 @@
       "url": "",
       "description": "Planification de chacune des étapes du projet de développement d’un site de création de menus pour les restaurateurs.",
       "isFork": false,
+      "challenge": "Intégrer les nouvelles technologies adaptées au projet tout en tenant compte de la stabilité et des bonnes pratiques nécessite un bon équilibre. Mise en place un système de veille continue via des outils spécialisés comme Feedly ou GitHub Trends a été utile pour rester à jour.",
+      "competences": "Utilisation d’outils comme Notion pour structurer et organiser le développement en suivant un flux de travail agile (Kanban). Capacité à décomposer des fonctionnalités en tâches réalisables. Présentation des solutions techniques de manière claire et compréhensible.",
       "languages": [
         
       ]
     }
   ]
 }
+
